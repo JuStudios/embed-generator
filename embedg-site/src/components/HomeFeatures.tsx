@@ -14,7 +14,7 @@ const features = [
   {
     name: "Save Messages",
     description:
-      "Save your messages in the cloud and have them available on all your devices. You can also share them with your friends!",
+      "git your messages in the cloud and have them available on all your devices. You can also share them with your friends!",
     href: "/docs/save-messages",
     icon: CloudIcon,
   },
